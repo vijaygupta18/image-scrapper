@@ -1,0 +1,19 @@
+{
+  "name": "image-scrapper",
+  "version": "1.0.0",
+  "description": "A package to download all images from a website",
+  "main": "image-scrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/vijaygupta18/image-scrapper.git)"
+  },
+  "keywords": [
+    "image",
+    "scrapper"
+  ],
+  "author": "Vijay",
+  "license": "ISC"
+}
